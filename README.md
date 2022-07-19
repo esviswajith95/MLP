@@ -2,7 +2,11 @@
 
 This is a collection of Jupyter notebooks I prepared while attending [Machine Learning Practice Course](https://onlinedegree.iitm.ac.in/course_pages/BSCCS2008.html) from [IIT Madras Online Degree Programme in Data Science and Programming](https://onlinedegree.iitm.ac.in/index.html)(Diploma Level).
 
-The course focuses on practical implementation of machine learning algorithm using scikit-learn APIs.
+The course focuses on practical implementation of machine learning algorithm using scikit-learn APIs. 
+
+**Running Examples**
+* California housing prediction for regression tasks.
+* MNIST Digit recognition for classification tasks
 
 ## Table of contents
 
@@ -59,7 +63,7 @@ The course focuses on practical implementation of machine learning algorithm usi
 * Support Vector Machines
 ### Week 9
 * Decision trees
-### week 10
+### Week 10
 * Bagging and Boosting
 * RandomForest
 ### Week 11
